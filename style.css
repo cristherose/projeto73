@@ -1,0 +1,47 @@
+h1 {
+    background: grey; width:883px ; height:374px;
+    line-height: 79px;
+    font-weight: black;
+    font-size: 89px;
+    color: #ffb300;
+
+}
+
+h2{
+    font-size: 34px;
+    color: #ffb300;
+    font-weight: bold;
+}
+nav{
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 21px;
+    font-weight: semibold;
+    line-height: 1,61;
+    color: black;
+}
+p:empty {
+    height: 34px;
+    background-color: grey;
+}
+
+ol{
+    font-size: 21px;
+    font-weight: semibold;
+    line-height: 21px*1.61;
+}
+video{
+    height: 497px;
+    width: 883px;
+    background-color: grey;
+}
+
+a{
+    font-weight: black;
+    font-size: 21px;
+    color: #003783;
+}
